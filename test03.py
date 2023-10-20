@@ -22,4 +22,4 @@ my_set1 = { 10 , 20 , True , 10 , "SAU" , ( 20 , "IoT" )}
 # ---------------- *** Dictionnary = ที่เป็น Key:value แก้ไขได้ ไม่มีindexกำกับ ซ้ำได้  ----------------
 # key = string / number (int) , value = all type
 #                 key:value     key:value  key:value   key:value    key:value
-my_diction = { "name":"mod" , "age":"30" , 555:999 , "fla":True , "wow":[10,20,30]}
+my_diction1 = { "name":"mod" , "age":"30" , 555:999 , "fla":True , "wow":[10,20,30]}
