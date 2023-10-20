@@ -43,3 +43,11 @@ my_list2.pop()
 print (my_list2)
 my_list2.pop(2) # 2 is index = 10
 print (my_list2)
+
+# list function => len() , min() , max()
+list3 = [ 10 , 20 , 10 , 30 , True ]
+print (len(list3))
+print (min(list3))
+print (max(list3))
+
+# Tuple 
