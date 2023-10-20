@@ -26,3 +26,8 @@ print (infoB.replace("Hello","Hi..."))
 
 #String string
 print (len(infoA))
+print ("SAU",35,end="")
+print ("SAU"+str(35))
+print ("SAU",35,sep="")
+print ("20","02","2023",sep="/")
+print ("20","01","2023",sep="-")
